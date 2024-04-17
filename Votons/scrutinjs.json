@@ -1,0 +1,890 @@
+{
+    "scrutins": [
+        {
+            "email": "admin@admin.com",
+            "nom_scrutin": "Pr\u00e9sidentielle",
+            "choix": [
+                "Ayoub",
+                "Aziza",
+                "Yusuf"
+            ],
+            "deadline": "2024-04-01",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mammaz.karkar@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "test@admin.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                }
+            },
+            "votes": {
+                "Ayoub": 6,
+                "Aziza": 3,
+                "Yusuf": 4
+            }
+        },
+        {
+            "email": "admin@admin.com",
+            "nom_scrutin": "Test",
+            "choix": [
+                "Can1",
+                "Can2",
+                "Can3"
+            ],
+            "deadline": "2024-04-15",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mammaz.karkar@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "test@admin.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                }
+            },
+            "votes": {
+                "Can1": 6,
+                "Can2": 7,
+                "Can3": 3
+            }
+        },
+        {
+            "email": "admin@admin.com",
+            "nom_scrutin": "D\u00e9l\u00e9gu\u00e9",
+            "choix": [
+                "Yassine",
+                "Bernard",
+                "Paul"
+            ],
+            "deadline": "2024-04-15",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mammaz.karkar@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": true
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "test@admin.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                }
+            },
+            "votes": {
+                "Yassine": 5,
+                "Bernard": 2,
+                "Paul": 2
+            }
+        },
+        {
+            "email": "admin@admin.com",
+            "nom_scrutin": "R\u00e9f\u00e9rendum",
+            "choix": [
+                "Oui",
+                "Non",
+                "Abstention"
+            ],
+            "deadline": "2024-04-15",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mammaz.karkar@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "test@admin.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                }
+            },
+            "votes": {
+                "Oui": 0,
+                "Non": 1,
+                "Abstention": 0
+            }
+        },
+        {
+            "email": "mammaz.karkar@gmail.com",
+            "nom_scrutin": "TestDate",
+            "choix": [
+                "date1",
+                "date2",
+                "date3"
+            ],
+            "deadline": "2024-04-19",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "admin@admin.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "test@admin.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                }
+            },
+            "votes": {
+                "date1": 0,
+                "date2": 0,
+                "date3": 0
+            }
+        },
+        {
+            "email": "mammaz.karkar@gmail.com",
+            "nom_scrutin": "TestResultat",
+            "choix": [
+                "res1",
+                "res2",
+                "res3"
+            ],
+            "deadline": "2024-04-25",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "admin@admin.com": {
+                    "nbrProc": "8",
+                    "aVote": false
+                },
+                "test@admin.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                }
+            },
+            "votes": {
+                "res1": 1,
+                "res2": 2,
+                "res3": 1
+            }
+        },
+        {
+            "email": "admin@admin.com",
+            "nom_scrutin": "Test",
+            "choix": [
+                "a",
+                "b",
+                "c"
+            ],
+            "deadline": "2024-04-25",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mammaz.karkar@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProc": "1",
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "test@admin.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                }
+            },
+            "votes": {
+                "a": 0,
+                "b": 0,
+                "c": 0
+            }
+        },
+        {
+            "email": "test@admin.com",
+            "nom_scrutin": "TestChoix",
+            "choix": [
+                "c1",
+                "c2",
+                "c3",
+                "c4"
+            ],
+            "deadline": "2024-04-25",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "mammaz.karkar@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "admin@admin.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "admin2@a.a": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                }
+            },
+            "votes": {
+                "c1": 0,
+                "c2": 0,
+                "c3": 1,
+                "c4": 0
+            }
+        },
+        {
+            "email": "test@admin.com",
+            "nom_scrutin": "TestProc",
+            "choix": [
+                "proc1",
+                "proc2"
+            ],
+            "deadline": "2024-04-25",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "admin@admin.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "admin2@a.a": {
+                    "nbrProc": "0",
+                    "aVote": false
+                },
+                "test@admin.com": {
+                    "nbrProc": "0",
+                    "aVote": false
+                }
+            },
+            "votes": {
+                "proc1": 0,
+                "proc2": 0
+            }
+        },
+        {
+            "email": "test@admin.com",
+            "nom_scrutin": "TestProc",
+            "choix": [
+                "proc1",
+                "proc32855"
+            ],
+            "deadline": "2024-04-25",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProc": "2",
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "admin@admin.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "admin2@a.a": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "test@admin.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                }
+            },
+            "votes": {
+                "proc1": 0,
+                "proc32855": 0
+            }
+        },
+        {
+            "email": "admin@admin.com",
+            "nom_scrutin": "TestProc",
+            "choix": [
+                "proc1",
+                "proc2"
+            ],
+            "deadline": "2024-04-25",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "test@admin.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "admin2@a.a": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                },
+                "admin@admin.com": {
+                    "nbrProc": "-1",
+                    "aVote": false
+                }
+            },
+            "votes": {
+                "proc1": 0,
+                "proc2": 0
+            }
+        },
+        {
+            "email": "test@admin.com",
+            "nom_scrutin": "Saha",
+            "choix": [
+                "sah",
+                "pas sah"
+            ],
+            "deadline": "2024-04-25",
+            "electeurs": {
+                "ayoub.lansari213@gmail.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "kekefjjeofjlekfoejffej@outlook.fr": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "yusufgurbuz0123@gmail.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "oui@oui.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "mammakarkar@gmail.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "yusuf@gmail.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "mohamed.amine@outlook.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "lolipop@gmail.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "dalylezz@gmail.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "reda@gmail.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "hafid@gmail.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "ayoub@gmail.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "admin@admin.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "admin2@a.a": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                },
+                "test@admin.com": {
+                    "nbrProcurations": -1,
+                    "aVote": false
+                }
+            }
+        }
+    ]
+}

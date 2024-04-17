@@ -1,0 +1,68 @@
+{
+    "utilisateurs": [
+        {
+            "email": "ayoub.lansari213@gmail.com",
+            "mdp": "$2y$10$rtsADcnHv91CQ9uWhiqLI.ux0NhKs1VTUmq9YOOQSqWsLwpeQr3kG"
+        },
+        {
+            "email": "kekefjjeofjlekfoejffej@outlook.fr",
+            "mdp": "$2y$10$74tmeVYXVqB5BcF2zPc21.Nwj.MbOGNEJ4k9sc\/yHb9U578iByQxm"
+        },
+        {
+            "email": "yusufgurbuz0123@gmail.com",
+            "mdp": "$2y$10$NB4bH.W4SlgSSNHa4.oFh.TGSS4vGNQo\/NQHne8ksAKMQxK.7vgy2"
+        },
+        {
+            "email": "oui@oui.com",
+            "mdp": "$2y$10$pTJFvlrh8uRGz73PGy7K4.zAaqZ0Zamp7650uc03KDow4\/btgPg12"
+        },
+        {
+            "email": "mammaz.karkar@gmail.com",
+            "mdp": "$2y$10$6s80HT\/VKJ2oJ1IGWpKJ8.2qpEbewYWul9BL8ZBKpVFGc8D3eoAEe"
+        },
+        {
+            "email": "mammakarkar@gmail.com",
+            "mdp": "$2y$10$4HVSyAII6.IvxU9dSIC0MOABIeeHr9SldMLwpRKgJsTH.Psh0l2gC"
+        },
+        {
+            "email": "yusuf@gmail.com",
+            "mdp": "$2y$10$1ZxuQcSITlJ\/yjQTqtq1ueLYT3H18TAIMTT84JySrdVL7spOEljHa"
+        },
+        {
+            "email": "mohamed.amine@outlook.com",
+            "mdp": "$2y$10$jlVhJF4V7CZsxzwWUEMrRetU9G\/nQ.Vboxtacg6KNp1OJuSziR7da"
+        },
+        {
+            "email": "lolipop@gmail.com",
+            "mdp": "$2y$10$zQTXK3U942Vt.1TefzfwVun.bpuGQJcFGqOvn8GIv5dp5AX.N9QB."
+        },
+        {
+            "email": "dalylezz@gmail.com",
+            "mdp": "$2y$10$sNn.BCCYdhWZHy3iy8\/jV.bRKxP1ccouk8sLheNUlb.KOy6C\/w6Wi"
+        },
+        {
+            "email": "reda@gmail.com",
+            "mdp": "$2y$10$inw4YBJ.95Zsi.lOszbpJO.rREdpihDZ4Inwmd9p85oASVdnv4\/OW"
+        },
+        {
+            "email": "hafid@gmail.com",
+            "mdp": "$2y$10$L2i2WFWOkUIs7lFQl4UuKua1LBITIb2J2Tv91Ujq399j7X3knFg26"
+        },
+        {
+            "email": "ayoub@gmail.com",
+            "mdp": "$2y$10$pHKPTd1XEbZPXBuFnWeCue88uwXiOr5xi\/9Axjh5OEBUAIc7.BhM6"
+        },
+        {
+            "email": "admin@admin.com",
+            "mdp": "$2y$10$5cMDhucv7SX8yL8BzKFLludUdzfxtTTaM00WdNImVpzCvd59phgeW"
+        },
+        {
+            "email": "admin2@a.a",
+            "mdp": "$2y$10$rzU2uRtyNHtO7vY2efZlfuALnteabJ4EaUJ9ClYt7SCwcGFJeWhSq"
+        },
+        {
+            "email": "test@admin.com",
+            "mdp": "$2y$10$4gwgiHxR9BA9pjCpPU1jnuxgGWJf7XJJUDVElXtH6\/ezQS71E0DvC"
+        }
+    ]
+}
